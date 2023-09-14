@@ -1,0 +1,55 @@
+.hoverr{
+    width: 120px;
+    height: 120px;
+    background-color: orange;
+    margin: 5px;
+    color:aliceblue;
+    text-align:center;
+    font-size: 105px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:default;
+}
+
+h1{
+    width: 373px;
+    height: 40px;
+    background-color:orange;
+    margin-left: 25%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(86, 2, 79);
+    cursor: default;
+}
+
+table {
+    margin-left: 25%;
+}
+
+.hoverr:hover{
+    background-color: black;
+}
+
+.GameOver{
+    background-color:black;
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    color:aliceblue;
+    text-align:center;
+    font-size: 105px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:default;
+}
+.win{
+    background-color: rgb(46, 231, 46);
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    color:aliceblue;
+    text-align:center;
+    font-size: 105px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor:default;
+}
+
